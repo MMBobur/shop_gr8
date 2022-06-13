@@ -1,0 +1,131 @@
+.playbox{
+    background-image: url('https://cdn.shopify.com/s/files/1/2672/5778/files/master-slide-02_1920x570.jpg?v=1514462766');
+    width: 50%;
+    height: 50%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border:1px solid red;
+    background: rgba(255, 255, 255, 0);
+ background-repeat: no-repeat;
+}
+.one1{
+    text-align: center;
+    background: rgba(0, 0, 0,0.6);
+}
+.liz{
+    color: #FDBE33;
+    transition: 1s;
+    font-weight: bold;
+}
+.box3:hover .liz {
+    color:black ;
+    width: 5%; 
+    letter-spacing: 1px;
+    transition: 0.5s;
+}
+.box3:hover .card{
+    transition: 0.5s;
+    background: #FDBE33;
+}
+.card{
+    transition: 0.5s;
+    background: #030F27;
+}
+.button12{
+    padding:10px;
+    font-size: 15px;
+    font-weight: bold;
+    background: #030F27;
+    transition: 0.3s;
+    border: 2px solid white;
+    color: white;
+}
+.button12:hover{
+    transition: 0.3s;
+    color: #030F27;
+    background: #FDBE33;
+    border: 2px solid #FDBE33;
+}
+.salom{
+    transition: 0.2s;
+    color: black;
+}
+.cardone:hover .salom{
+    transition: 0.2s;
+    color: white;
+}
+.admin:hover{
+    transition: 0.3s;
+    color: #FDBE33;
+}.admin{transition: 0.3s;}
+.cons:hover{
+    
+    transition: 0.3s;
+    color: #FDBE33;
+}.cons{transition: 0.3s;}
+.back{
+    padding-bottom: 4%;
+    background: #F3F6FF;
+}
+.typo1:hover{
+    transition: 0.4s;
+    color: #FDBE33;
+}
+.typo1{
+    cursor: pointer;
+    transition: 0.4s;
+}
+.typo2:hover{
+    transition: 0.4s;
+    letter-spacing: 2px;
+}
+.typo2{
+    transition: 0.4s;
+
+}
+.qwer{
+    background: #121518;
+    color: #FDBE33;
+    transition: 0.3s;
+    border: 1px solid #FDBE33;
+}
+.qwer:hover{
+    transition: 0.3s;
+    background: #FDBE33;
+    color: black;
+}
+
+.icon1:hover{
+    background: #FDBE33;
+    color: black;
+    transition: 0.3s;
+}
+.asdf{
+    border-top: 1px solid #474E5E;
+    border-bottom: 1px solid #474E5E;
+}
+.a1{
+    border-right: 1px solid #474E5E;
+    /* width: 50%; */
+}
+.pra:hover{
+    transition: 0.3s;
+    color:#FDBE33 ;
+}
+.pra{
+    transition: 0.3s;
+
+}
+.pre:hover{
+    transition: 0.3s;
+    color:white ;
+}
+.pre{
+    transition: 0.3s;
+    color: #FDBE33;
+}
+cursor{
+    cursor: pointer;
+}
