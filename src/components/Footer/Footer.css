@@ -1,0 +1,112 @@
+.Div10 {
+    width: 100%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    height: auto;
+    background-color: #F0F0F0;
+}
+
+.Litext {
+    color: black;
+    font-size: 20px;
+    list-style: none;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.Litext1 {
+    font-size: 15px;
+    margin-top: 20px;
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.Litext2 {
+    font-size: 15px;
+    margin-top: 15px;
+    color: #777777;
+    list-style: none;
+    text-align: center;
+}
+
+.Litext3 {
+    cursor: pointer;
+    font-size: 15px;
+    list-style: none;
+    margin-top: 15px;
+    text-align: start;
+}
+
+.Litext3:hover {
+    color: #D35744;
+}
+
+.Button {
+    width: 179px;
+    height: 46px;
+    border: none;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 100px;
+    background-color: black;
+}
+
+.Button:hover {
+    background-color: #D35744;
+}
+
+.Grid {
+    gap: 10px;
+    width: 100%;
+    margin: 10px;
+    display: grid;
+    grid-template-columns: 60px 60px 60px 60px;
+}
+
+.ImgGrid {
+    width: 58px;
+    height: 58px;
+}
+
+.Grid1 {
+    width: 100%;
+    display: grid;
+    margin-top: 20px;
+    grid-template-columns: 40px 40px 40px 40px;
+}
+
+.Grid2 {
+    width: 100%;
+    display: grid;
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+    color: #777777;
+    grid-template-columns: 40px 40px 40px 40px;
+}
+
+.Icons {
+    width: 15px;
+    height: 15px;
+    padding: 5px;
+    color: #777777;
+}
+
+.Input {
+    border: none;
+    padding: 10px;
+    padding-left: 2px;
+    background: transparent;
+    border-bottom: 1px solid #555555;
+}
+
+.Div1 {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
